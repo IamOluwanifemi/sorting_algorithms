@@ -1,5 +1,5 @@
 # AUTHORS
 
-Ezenna Frank - Email <frankfortdata@gmail.com>
+Idowu Nifemi - Email <Idowunifemi6@gmail.com>
 
-David Mugoma - Email <mugomadavid24@gmail.com>
+Etim Emem - Email <etimeminent@gmail.com>
